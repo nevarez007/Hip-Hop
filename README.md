@@ -18,7 +18,7 @@
     <section>
       <h2>¿Qué es el Hip Hop?</h2>
       <p>El hip hop es un estilo de danza urbana que nació en las calles de Nueva York. Es libre, expresivo y dinámico, con movimientos acrobáticos, improvisación y mucha energía. Ideal para quienes quieren liberar su estilo personal.</p>
-      <img src="media/hiphop.jpg" alt="Bailarín de hip hop" width="400">
+      <img src="https://www.despuntadanza.com/wp-content/uploads/2017/03/h3-slider3-backgroound-img.jpg" alt="Bailarín de hip hop" width="400">
     </section>
 
     </section>
