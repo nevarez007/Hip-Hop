@@ -29,11 +29,7 @@
       <video src="media/hiphop-video.mp4" width="400" controls></video>
     </section>
 
-  </main>
-
   <footer>
     <marquee>¡Exprésate con fuerza y libertad en nuestras clases de Hip Hop!</marquee>
      2025 Academia Estrella
   </footer>
-</body>
-</html>
