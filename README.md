@@ -30,7 +30,7 @@ El baile del Hip Hop ha cobrado tanta importancia en el sector de la danza que y
       
     <section>
       <h2>Video de clase</h2>
-      <video src="media/hiphop-video.mp4" width="400" controls></video>
+      <video src="https://github.com/user-attachments/assets/f39f9909-5a05-42e0-8636-7a0735b7a1f6" width="400" controls></video>
     </section>
 
   <footer>
